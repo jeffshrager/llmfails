@@ -1,0 +1,10 @@
+See: https://docs.google.com/document/d/1all7ZyGwANDfroIWZ-pQmbD2JbOo-3Mog4Z3cHVNv4I/edit?usp=sharing
+
+Summary:
+
+Ran three trials, with default settings. Each time, the results were the same.
+
+Knows the rules.
+Failed multiple times on LEAH+LOVES=RUSSIA
+Reverted to trial and error.
+After several attempts, it deduced (incorrectly) that a solution did not exist.
