@@ -1,1 +1,11 @@
-This will be the current testing protocol.
+Experimenter Prompts (Work in Progress!)
+
+[Stop at any point when the LLM has solved the given problem; if not, please keep going with the questions.]
+
+1. Can you solve cryptarithmetic problems, like DONALD+GERALD=ROBERT? If so, do not solve that one, just tell me the rules of the problem.
+
+2. Okay, please do this one: LEAH+LOVES = RUSSIA.
+
+3. That is clearly incorrect. Can you explain why?
+
+Alternate, generic prompt: That is not accurate. Can you try again?
